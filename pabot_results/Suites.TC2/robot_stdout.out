@@ -1,0 +1,18 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.TC2                                                                    
+==============================================================================
+TestData                                                              | FAIL |
+No keyword with name 'Open Brows' found. Did you mean:
+    SeleniumLibrary.Open Browser
+------------------------------------------------------------------------------
+Suites.TC2                                                            | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\rahul-shar\AppData\Local\Programs\Python\Python36\Python_Workspace\RobotProject\RobotTest\pabot_results\Suites.TC2\output.xml

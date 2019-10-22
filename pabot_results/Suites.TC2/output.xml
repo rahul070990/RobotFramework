@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.6.8 on win32)" generated="20191019 17:46:43.043" rpa="false">
+<suite id="s1" name="Suites">
+<suite id="s1-s1" name="TC2" source="C:\Users\rahul-shar\AppData\Local\Programs\Python\Python36\Python_Workspace\RobotProject\RobotTest\ParallelRun\TC2.robot">
+<test id="s1-s1-t1" name="TestData">
+<kw name="Open Brows">
+<arguments>
+<arg>https://portal-qa3web.examone.com</arg>
+<arg>chrome</arg>
+</arguments>
+<msg timestamp="20191019 17:46:45.247" level="FAIL">No keyword with name 'Open Brows' found. Did you mean:
+    SeleniumLibrary.Open Browser</msg>
+<status status="FAIL" starttime="20191019 17:46:45.247" endtime="20191019 17:46:45.247"></status>
+</kw>
+<status status="FAIL" starttime="20191019 17:46:45.238" endtime="20191019 17:46:45.247" critical="yes">No keyword with name 'Open Brows' found. Did you mean:
+    SeleniumLibrary.Open Browser</status>
+</test>
+<status status="FAIL" starttime="20191019 17:46:43.248" endtime="20191019 17:46:45.253"></status>
+</suite>
+<status status="FAIL" starttime="20191019 17:46:43.053" endtime="20191019 17:46:45.253"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Suites">Suites</stat>
+<stat pass="0" fail="1" id="s1-s1" name="TC2">Suites.TC2</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
