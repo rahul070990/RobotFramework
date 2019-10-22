@@ -1,3 +1,4 @@
+
 *** Settings ***
 Library    SeleniumLibrary   
  
@@ -7,7 +8,7 @@ TestData
     Open Browser    https://www.google.com    chrome     
      Open Browser    https://www.google.com    chrome
       Open Browser    https://www.google.com    chrome
-       Open Browser    https://www.google.com    chrome
-    Close Browser   
-  
-    
+    Open Browser    https://www.google.com    chrome     
+    Close Browser  
+        Close Browser 
+            Close Browser 
